@@ -39,6 +39,7 @@ Load Data, Imported the .xls file into  Power BI., Clean Column Names, Converted
 
 #### Derived new insights: e.g., proportion of hospital cost out of total reimbursement.
 Categorized states into high, medium, and low spending for comparison.
+
 #### Visualization Preparation
 Structured the data in tidy format for charts (rows = states, columns = metrics).
 Geo-mapped states using standard U.S. state names or FIPS codes.
